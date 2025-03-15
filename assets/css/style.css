@@ -111,7 +111,7 @@ header nav img {
 }
 
 .banner {
-    background-image: url(/assets/images/bg.jpg);
+    background-image: url(../images/bg.jpg);
     background-position: center;
     background-size: cover;
     padding: 90px 0px 90px 80px;
@@ -146,14 +146,14 @@ header nav img {
 }
 
 .area1-img1 {
-    background-image: url(/assets/images/f2.jpg);
+    background-image: url(../images/f2.jpg);
     background-size: cover;
     background-position: center;
     height: 350px;
 }
 
 .area1-img2 {
-    background-image: url(/assets/images/f1.jpg);
+    background-image: url(../images/f1.jpg);
     background-size: cover;
     background-position: center;
     grid-column: 2 / span 2;
@@ -176,14 +176,14 @@ header nav img {
 }
 
 .area2-img1 {
-    background-image: url(/assets/images/f4.jpg);
+    background-image: url(../images/f4.jpg);
     background-size: cover;
     background-position: center;
     height: 450px;
 }
 
 .area2-img2 {
-    background-image: url(/assets/images/f3.jpg);
+    background-image: url(../images/f3.jpg);
     background-size: cover;
     background-position: center;
     grid-column: 1 / span 1;
@@ -198,7 +198,7 @@ header nav img {
 .area3-content {
     padding: 250px 80px;
     padding-left: 180px;
-    background-image: url(/assets/images/bg2.jpg);
+    background-image: url(../images/bg2.jpg);
     background-size: cover;
     background-position: left;
 }
@@ -209,7 +209,7 @@ header nav img {
 }
 
 .area3-img1 {
-    background-image: url(/assets/images/f5.jpg);
+    background-image: url(../images/f5.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -231,12 +231,12 @@ header nav img {
 }
 
 .area4-img1 {
-    background-image: url(/assets/images/bg3.jpg);
+    background-image: url(../images/bg3.jpg);
     background-position: left;
 }
 
 .area5 {
-    background-image: url(/assets/images/bg4.jpg);
+    background-image: url(../images/bg4.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
